@@ -6,7 +6,7 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 
 ## Sesiones 
 
-- [ ] Sesión 01 - 11.08.24 - Processing y 3d
+- [ ] [Sesión 01](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md) - 11.08.24 - Processing y 3d
 
 ## Recursos 
 
