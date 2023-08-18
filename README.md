@@ -7,7 +7,7 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 ## Sesiones 
 
 - [x] [Sesión 01](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s01.md) - 11.08.24 - Processing y 3d
-- [ ] [Sesión 02](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s01.md) - 17.08.24 - Repaso e Iteraciones 
+- [ ] [Sesión 02](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s02.md) - 17.08.24 - Repaso e Iteraciones 
 
 ## Recursos 
 
@@ -22,6 +22,7 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 
 ## Referencias
 
+Felguérez, M y Sasson, M. (1983) La Máquina Estética. Universidad Nacional Autónoma de México.
 - Reas, C. and Fry, B. (2014) Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press.
 
 
