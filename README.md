@@ -11,7 +11,11 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 - [x] [Sesión 03](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s03.md) - 25.08.23 - Ruido y captura - [Código cubos y export](https://gist.github.com/EmilioOcelotl/5ac29b79591be6839fce7d63196f830a) - [código cubos e imagen](https://gist.github.com/EmilioOcelotl/1fb9138a25da1e52bdca8e0551bab458)
 - [x] [Sesión 04](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s04.md) - 01.09.23 - Mesh y ruido. Captura de color 
 - [x] [Sesión 05](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s05.md) - 07.09.23 - Esfera, noise y textura - [Código](https://gist.github.com/EmilioOcelotl/20527a83261bf17da2570ba5fbf5776b)
-- [ ] [Sesión 06](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s06.md) - 15.09.23 - Esfera y sonido
+- [x] [Sesión 06](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s06.md) - 15.09.23 - Esfera y sonido - [Código](https://gist.github.com/EmilioOcelotl/8abbfa0ed3ad4b313e941576ae7e4ebf)
+- [x] [Sesión 07](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s07.md) - 22.09.23 - Luces y Pointlight - [Código](https://gist.github.com/EmilioOcelotl/9763be2feea8e4ae261adcc683d706d2)
+- [x] [Sesión 08](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s08.md) - 29.09.23 - Toroide y PGraphics como textura - [Código](https://gist.github.com/EmilioOcelotl/ce789d7e89c0921e4cafaf6a3e675be6)
+- [x] [Sesión 09](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s09.md) - 13.10.23 - Ecosistemas de programación y Hydra. 
+- [ ] [Sesión 10](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s10.md) - 20.10.23 - P5 y Hydra
 
 ## Recursos 
 
@@ -22,6 +26,7 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 - [beginShape](https://processing.org/reference/beginShape_.html)
 - [3d Terrain Generation with Perlin Noise in Processing](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s03.md) - The Coding Train 
 - [Sonido](https://processing.org/reference/libraries/sound/index.html)
+- [Hydra](https://hydra.ojack.xyz/)
 
 ## Criterios de evaluación
 
