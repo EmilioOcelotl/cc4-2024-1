@@ -15,8 +15,8 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 - [x] [Sesión 07](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s07.md) - 22.09.23 - Luces y Pointlight - [Código](https://gist.github.com/EmilioOcelotl/9763be2feea8e4ae261adcc683d706d2)
 - [x] [Sesión 08](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s08.md) - 29.09.23 - Toroide y PGraphics como textura - [Código](https://gist.github.com/EmilioOcelotl/ce789d7e89c0921e4cafaf6a3e675be6)
 - [x] [Sesión 09](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s09.md) - 13.10.23 - Ecosistemas de programación y Hydra. 
-- [x] [Sesión 10](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s10.md) - 20.10.23 - P5 y Hydra
-- [ ] [Sesión 11](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s11.md) - [Punto de partida](https://gist.github.com/EmilioOcelotl/ba3baafac5bda577c5aecb6bd0778e57)
+- [x] [Sesión 10](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s10.md) - 20.10.23 - P5 y Hydra - [Enlace P5](https://editor.p5js.org/emilioocelotl/sketches/JhoYDrQLJ) - [Enlace Hydra](https://hydra.ojack.xyz/)
+- [ ] [Sesión 11](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s11.md) - 27.10.23 - Supershape [Punto de partida](https://gist.github.com/EmilioOcelotl/ba3baafac5bda577c5aecb6bd0778e57)
 
 ## Recursos 
 
