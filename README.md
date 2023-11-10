@@ -17,7 +17,7 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 - [x] [Sesión 09](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s09.md) - 13.10.23 - Ecosistemas de programación y Hydra. 
 - [x] [Sesión 10](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s10.md) - 20.10.23 - P5 y Hydra - [Enlace P5](https://editor.p5js.org/emilioocelotl/sketches/JhoYDrQLJ) - [Enlace Hydra](https://hydra.ojack.xyz/)
 - [x] [Sesión 11](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s11.md) - 27.10.23 - Supershape - [Punto de partida](https://gist.github.com/EmilioOcelotl/ba3baafac5bda577c5aecb6bd0778e57) - [Código](https://gist.github.com/EmilioOcelotl/4990ce2c16c0fb78c683b98eb7c2f380)
-- [ ] [Sesión 12](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s12.md) - 10.10123 - Supershape y Controles 
+- [ ] [Sesión 12](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s12.md) - 10.10.23 - Supershape y Controles 
 
 ## Recursos 
 
