@@ -18,7 +18,9 @@ Aplicar conocimientos de programación computacional para diseñar y construir m
 - [x] [Sesión 10](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s10.md) - 20.10.23 - P5 y Hydra - [Enlace P5](https://editor.p5js.org/emilioocelotl/sketches/JhoYDrQLJ) - [Enlace Hydra](https://hydra.ojack.xyz/)
 - [x] [Sesión 11](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s11.md) - 27.10.23 - Supershape - [Punto de partida](https://gist.github.com/EmilioOcelotl/ba3baafac5bda577c5aecb6bd0778e57) - [Código](https://gist.github.com/EmilioOcelotl/4990ce2c16c0fb78c683b98eb7c2f380)
 - [x] [Sesión 12](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s12.md) - 10.11.23 - Supershape y Controles - [Código](https://gist.github.com/EmilioOcelotl/f6811208d8911858265884098a2df074)
-- [ ] [Sesión 13](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s12.md) - 17.11.23 - Clase Mesh y otras figuras
+- [x] [Sesión 13](https://github.com/EmilioOcelotl/cc4-2024-1/blob/main/doc/s12.md) - 17.11.23 - Clase Mesh y otras figuras - [Código](https://gist.github.com/EmilioOcelotl/acc79720336cc81665e8e32f981653f0) 
+- [x] Sesión 14. Superficies, ecuaciones y color. [Código](https://gist.github.com/EmilioOcelotl/063a1e779830fc09b2a21ebff78d77c2)
+- [x] Sesión 15. Cierre del curso y entregas pendientes. 
 
 ## Recursos 
 
